@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @CarlosSain55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm Sharif Ruzaimi
 
-<!---
-CarlosSain55/CarlosSain55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Cybersecurity, Web Development, and Mobile App Development
+- 🌱 I’m currently learning Flutter, Firebase, and Advanced Cybersecurity
+- 💞️ I’m looking to collaborate on innovative software projects and startup ideas
+- 📫 How to reach me: sharifruzaimi@example.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I build apps like TutorGo and love creating modern UI designs
