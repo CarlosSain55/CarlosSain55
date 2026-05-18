@@ -15,7 +15,7 @@
 
 <br />
 
-### 🎯 **CS Student @ UniSZA · 3.67 CGPA · Dean's List × 4 · Looking for SWE/AI Internships**
+### CS Student @ UniSZA · 3.67 CGPA · Dean's List × 4 · Looking for SWE/AI Internships
 
 <br />
 
@@ -28,11 +28,11 @@
 
 <br />
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 const sharif = {
-  location    : "Sandakan, Sabah · Malaysia 🇲🇾",
+  location    : "Sandakan, Sabah · Malaysia",
   education   : "BSc Computer Science (Software Dev) @ UniSZA",
   cgpa        : 3.67,
   focus       : ["Full-stack", "Computer Vision", "Data Engineering"],
@@ -52,7 +52,7 @@ I build **role-based web platforms**, **YOLO computer-vision systems**, and **st
 
 <br />
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,58 +69,58 @@ I build **role-based web platforms**, **YOLO computer-vision systems**, and **st
 
 <br />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📅 [TutorGo](https://github.com/CarlosSain55/tutorgo)
+### [TutorGo](https://github.com/CarlosSain55/tutorgo)
 A tuition-booking platform with role-based access for Admin · Teacher · Student. Built with CodeIgniter 4 REST API and MySQL backend.
 
 **Impact:** Serving 50+ active users across 3 role hierarchies with 99.9% uptime
 
 **Tech:** `CodeIgniter 4` `PHP` `MySQL` `Bootstrap` `REST API`
 
-🔗 [View Code](https://github.com/CarlosSain55/tutorgo) · [Live Demo](https://tutorgo-demo.com)
+[View Code](https://github.com/CarlosSain55/tutorgo) · [Live Demo](https://tutorgo-demo.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧵 [AI Fabric Defect Detection](https://github.com/CarlosSain55/fabric-detection)
+### [AI Fabric Defect Detection](https://github.com/CarlosSain55/fabric-detection)
 Real-time defect detector for textiles using YOLO + OpenCV pipeline. Flask app with Inspector/Manager/Admin roles.
 
 **Impact:** Detecting 8 defect types at 30 FPS on commodity hardware with 92% accuracy
 
 **Tech:** `Python` `YOLOv8` `OpenCV` `Flask` `NumPy`
 
-🔗 [View Code](https://github.com/CarlosSain55/fabric-detection) · [Demo Video](https://youtube.com/demo)
+[View Code](https://github.com/CarlosSain55/fabric-detection) · [Demo Video](https://youtube.com/demo)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍒 [Portfolio & Blog](https://github.com/CarlosSain55/portfolio)
+### [Portfolio & Blog](https://github.com/CarlosSain55/portfolio)
 Single-page React portfolio with 3D CSS keycap skills board, photo slideshow, experience timeline, and modal blog reader with persistent dark mode.
 
 **Impact:** 500+ monthly visitors · Featured in UniSZA showcase
 
 **Tech:** `React 18` `HTML5` `CSS3` `Babel Standalone`
 
-🔗 [View Code](https://github.com/CarlosSain55/portfolio) · [Visit Site](https://carlossain55.github.io/portfolio/)
+[View Code](https://github.com/CarlosSain55/portfolio) · [Visit Site](https://carlossain55.github.io/portfolio/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Retail Sales Intelligence](https://github.com/CarlosSain55/retail-dwh)
+### [Retail Sales Intelligence](https://github.com/CarlosSain55/retail-dwh)
 Star-schema data warehouse with pandas ETL pipeline. OLAP roll-up/drill-down/slice-and-dice surfaced through Power BI dashboards.
 
 **Impact:** Processing 1,000+ transactions · 15 analytical views · 3-second query response
 
 **Tech:** `Python` `MySQL` `pandas` `Power BI` `ETL`
 
-🔗 [View Code](https://github.com/CarlosSain55/retail-dwh)
+[View Code](https://github.com/CarlosSain55/retail-dwh)
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ Star-schema data warehouse with pandas ETL pipeline. OLAP roll-up/drill-down/sli
 
 <br />
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -143,26 +143,26 @@ Star-schema data warehouse with pandas ETL pipeline. OLAP roll-up/drill-down/sli
 
 <br />
 
-## 🏆 Achievements & Experience
+## Achievements & Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **Academic Recognition**
-- 🎓 Dean's List — Semesters 1, 3, 4, 5
-- 🥇 Anugerah Cemerlang (Academic Excellence)
-- 💰 Biasiswa Kerajaan Negeri Sabah (State Scholarship)
-- 📊 Current CGPA: 3.67/4.00
+- Dean's List — Semesters 1, 3, 4, 5
+- Anugerah Cemerlang (Academic Excellence)
+- Biasiswa Kerajaan Negeri Sabah (State Scholarship)
+- Current CGPA: 3.67/4.00
 
 </td>
 <td width="50%" valign="top">
 
 **Technical Highlights**
-- 🧠 Trained YOLO model achieving 92% accuracy
-- 📊 Built star-schema DWH processing 1K+ records
-- 🚀 Shipped 4 production-ready full-stack apps
-- 🎨 Exco Multimedia @ Siswa Siswi Pertahanan Awam
+- Trained YOLO model achieving 92% accuracy
+- Built star-schema DWH processing 1K+ records
+- Shipped 4 production-ready full-stack apps
+- Exco Multimedia @ Siswa Siswi Pertahanan Awam
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ Star-schema data warehouse with pandas ETL pipeline. OLAP roll-up/drill-down/sli
 
 <br />
 
-## 📍 Right Now (May 2026)
+## Right Now (May 2026)
 
 ```diff
 + Building   → TutorGo 2.0 (live availability + Stripe integration · Beta: June 15)
@@ -179,12 +179,12 @@ Star-schema data warehouse with pandas ETL pipeline. OLAP roll-up/drill-down/sli
 + Seeking    → SWE/AI internship starting Aug 2026 (Remote or KL/Penang)
 + Available  → June - August 2026 for summer internships
 ~ Listening  → Lo-fi / jazz piano while debugging
-~ Drinking   → Matcha latte (oat milk, no syrup) ☕
+~ Drinking   → Matcha latte (oat milk, no syrup)
 ```
 
 <br />
 
-## 💼 What I'm Looking For
+## What I'm Looking For
 
 I'm seeking a **software engineering or applied AI internship** for **August 2026 onwards** where I can:
 - Build production systems that solve real problems
@@ -198,7 +198,7 @@ I'm seeking a **software engineering or applied AI internship** for **August 202
 
 <br />
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -221,7 +221,7 @@ I reply within 24 hours on weekdays. Open to internships, freelance opportunitie
 
 <br /><br />
 
-**📌 Quick Links:** [Resume](https://drive.google.com/your-resume) · [LinkedIn](https://linkedin.com/in/sharif-ruzaimi-syirazi) · [Portfolio](https://carlossain55.github.io/portfolio/)
+**Quick Links:** [Resume](https://drive.google.com/your-resume) · [LinkedIn](https://linkedin.com/in/sharif-ruzaimi-syirazi) · [Portfolio](https://carlossain55.github.io/portfolio/)
 
 </div>
 
@@ -230,5 +230,5 @@ I reply within 24 hours on weekdays. Open to internships, freelance opportunitie
 ---
 
 <div align="center">
-<sub>⭐ If you found something here useful, a star on a repo would make my day!</sub>
+<sub>If you found something here useful, a star on a repo would be appreciated.</sub>
 </div>
