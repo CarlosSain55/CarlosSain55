@@ -1,194 +1,156 @@
+<!-- =============================================== -->
+<!--  GITHUB PROFILE README  ·  CarlosSain55         -->
+<!--  Last update : May 2026                         -->
+<!-- =============================================== -->
+<a href="https://github.com/CarlosSain55">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:172a39,50:fc563c,100:ffb398&text=Sharif%20Ruzaimi&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Coffee%20Optimist&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+</a>
 <div align="center">
+<a href="https://github.com/CarlosSain55">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=FC563C&center=true&vCenter=true&width=720&lines=%24+whoami;Computer+Science+student+%40+UniSZA;Building+full-stack+%2B+AI+%2B+data+products;Currently+pulling+shots+at+Matcha+Cloud;Open+to+internships+%E2%80%94+let's+talk." alt="terminal" />
+</a>
 
-# 🍒 Sharif Ruzaimi — Portfolio & Blog
 
-A single-page personal portfolio and blog built from scratch with vanilla HTML, CSS and React (via Babel Standalone — no build step). Made for **CSD 34203 — Special Topics in Software Development, CLO3**.
 
-[![Made with HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Made with CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-fc563c?style=for-the-badge)](#-license)
-
-[**🌐 Live demo**](https://carlossain55.github.io/portfolio/) · [**🐙 Source**](https://github.com/CarlosSain55/portfolio) · [**👤 Author**](https://github.com/CarlosSain55)
-
+<a href="mailto:shruzaimi@gmail.com"><img src="https://img.shields.io/badge/-shruzaimi%40gmail.com-fc563c?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sharif-ruzaimi-syirazi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/CarlosSain55"><img src="https://img.shields.io/badge/-GitHub-172a39?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://carlossain55.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-fc563c?style=flat-square&logo=safari&logoColor=white" /></a>
+ 
+<img src="https://komarev.com/ghpvc/?username=CarlosSain55&style=flat-square&color=172a39&label=PROFILE+VIEWS" />
 </div>
-
----
-
-## 📖 About this project
-
-This is my personal portfolio and developer blog — built as the individual assignment for **CSD 34203** at UniSZA (CLO3, 20%). The brief was simple: build a personal blog page, push it to GitHub, demonstrate the full software-development workflow. I took the chance to go further and shipped a full editorial portfolio with a 3D CSS keycap skill board, a slideshow About section, an experience timeline, a 3-post blog with a modal reader, persistent dark-mode, and a clean handwritten design system in cream / navy / vermillion.
-
-No build step. No npm. Open `index.html` and it runs.
-
----
-
-## ✨ Features
-
-| Section | What it does |
-| --- | --- |
-| **Home** | Editorial hero — giant `SR` monogram, vermillion disc, animated cutout portrait, scrambling subhead, parallax orbs, LIVE/SANDAKAN chip |
-| **About** | Bio + auto-advancing 4-photo slideshow (hover to pause, prev/next, frame counter) + animated stats grid |
-| **Experience** | 3-card timeline — Matcha Cloud · UniSZA · Multimedia Exco — with hover-tilt photo cards |
-| **Skills** | **Real 3D CSS keycap board** of 25 caps. Hover lifts a cap, click presses it, and the actual physical key on your keyboard presses the matching cap. Real brand logos via the Simple Icons CDN |
-| **Projects** | Animated reveal of the four featured projects from my CV |
-| **Notes (Blog)** | 4 sample posts in a card grid + full-screen modal reader (`Esc` to close) |
-| **Contact** | Big editorial layout, social cards with logos, click-to-copy email, available-status pill |
-| **Dark mode** | Floating toggle bottom-right, persisted to `localStorage` |
-| **Navigation** | Floating center pill with scroll-spy + sliding active indicator + top progress bar |
-| **Responsive** | Grids collapse at 920px and 620px, nav labels hide on small screens |
-
----
-
-## 🧰 Tech stack
-
-- **Markup** — semantic HTML5
-- **Styling** — hand-written CSS, custom properties (theming), CSS Grid + Flex, 3D transforms, masks
-- **Behaviour** — React 18 + JSX, transpiled in-browser by Babel Standalone (zero toolchain)
-- **Typography** — Space Grotesk · JetBrains Mono · Instrument Serif (Google Fonts)
-- **Icons** — Simple Icons (CDN, CC0)
-- **Persistence** — `localStorage` for theme
-- **Workflow** — Git + GitHub
-
----
-
-## 📁 Project structure
-
+<br />
+  🧑‍💻  About me
+```ts
+const sharif = {
+  name        : "Sharif Ruzaimi Syirazi",
+  pronouns    : "he / him",
+  location    : "Sandakan, Sabah · Malaysia 🇲🇾",
+  education   : "BSc Computer Science (Software Development) @ UniSZA",
+  cgpa        : 3.67,                    // Dean's List × 4 semesters
+  focus       : ["Full-stack web", "AI / Computer Vision", "Data & BI"],
+  currently   : "shipping TutorGo · weekends @ Matcha Cloud",
+  reach_me_at : "shruzaimi@gmail.com"
+};
 ```
-portfolio/
-├── index.html              # entry — fonts, CSS variables, boot splash, script tags
-├── app.jsx                 # <App>, <ThemeToggle>, section orchestration
-├── sections.jsx            # Nav · Hero · About · Experience · Projects · Contact · Marquee
-├── keyboard.jsx            # 3D keycap board · brand-logo loader · skills data
-├── blog.jsx                # Blog grid · post cards · modal reader · cover art
-├── README.md               # this file
-└── assets/
-    ├── sharif-cutout.png       # transparent hero portrait
-    ├── sharif-polaroid.jpg     # polaroid for About slideshow
-    ├── sharif-diner.jpg
-    ├── sharif-garden.jpg
-    ├── matcha-cloud.jpg        # Experience card
-    ├── exp-unisza.jpg          # Experience card — Anugerah Cemerlang
-    └── exp-exco.jpg            # Experience card — Pertahanan Awam
-```
-
----
-
-## 📰 Sample posts
-
-The Notes section ships with four field-note style posts:
-
-1. **TutorGo: matching students with tutors** — building a role-based booking platform in CodeIgniter 4.
-2. **Teaching a model to see thread** — what I learned building a YOLO defect detector for fabric.
-3. **A thousand sales rows and a star** — designing a warehouse that survives its first OLAP query.
-4. **Notes from behind a matcha bar** — why I think pulling shots makes me a better engineer.
-
-Each post has a custom inline-SVG cover, an author byline, a tag list, and renders inside a click-to-open reader modal.
-
----
-
-## ▶️ Running it locally
-
-### Option A — open the file directly
-
-```bash
-git clone https://github.com/CarlosSain55/portfolio.git
-cd portfolio
-open index.html        # macOS
-start index.html       # Windows
-xdg-open index.html    # Linux
-```
-
-### Option B — serve it (recommended)
-
-A static server avoids any quirks with CDN scripts. Pick whichever you have:
-
-```bash
-python3 -m http.server 5173
-# → http://localhost:5173
-
-# or
-npx serve .
-```
-
-No dependencies to install, no build step to run.
-
----
-
-## 🚀 Deploying to GitHub Pages
-
-1. Push this repo to GitHub.
-2. Repository → **Settings → Pages**.
-3. **Source:** Deploy from a branch · **Branch:** `main` · **Folder:** `/ (root)`.
-4. Save. After a minute the site is live at
-   `https://<your-username>.github.io/portfolio/`.
-
----
-
-## 🖼️ Screenshots
-
-> _Drop screenshots into a `/screenshots` folder, then link them here:_
->
-> | Home | Skills | Blog reader |
-> | --- | --- | --- |
-> | ![](screenshots/01-home.png) | ![](screenshots/02-skills.png) | ![](screenshots/03-blog.png) |
-
----
-
-## 🗒️ Commit history (highlights)
-
-Following the rubric's "at least 3 meaningful commits" requirement, the actual history has many more — these are the highlights:
-
-- `init: scaffold index.html, fonts, boot splash`
-- `feat(hero): editorial composition with SR monogram + cutout portrait`
-- `feat(skills): 3D CSS keycap board with brand logos`
-- `feat(experience): timeline cards with large photo thumbnails`
-- `feat(blog): card grid, modal reader, four sample posts`
-- `feat(theme): persistent dark-mode toggle`
-- `feat(contact): social cards with brand logos`
-- `style(palette): editorial cream / navy / vermillion`
-- `docs: write README with features, tech, run steps`
-
----
-
-## 👤 Author
-
-<table>
+I build role-based web platforms, YOLO computer-vision systems and star-schema data warehouses — and on weekends I whisk matcha at a pop-up stall in Sabah. Looking for an internship in software engineering or applied AI for late 2026.
+<br />
+  🛠️  Tech stack
+<table align="center">
 <tr>
-<td valign="top" width="120">
-  <img src="assets/sharif-cutout.png" alt="Sharif Ruzaimi" width="100" />
+<td align="center" valign="top" width="180"><b>Languages</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=py,js,php,java,dart,html,css" />
 </td>
-<td valign="top">
-
-**Sharif Ruzaimi Syirazi**
-BSc Computer Science (Software Development) · Universiti Sultan Zainal Abidin
-
-📍 Sandakan, Sabah, Malaysia
-✉️ [shruzaimi@gmail.com](mailto:shruzaimi@gmail.com)
-🐙 [github.com/CarlosSain55](https://github.com/CarlosSain55)
-💼 [linkedin.com/in/sharif-ruzaimi-syirazi](https://www.linkedin.com/in/sharif-ruzaimi-syirazi)
-📱 +60 17-811 7668
-
+</tr>
+<tr>
+<td align="center" valign="top"><b>Frameworks</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,bootstrap,opencv" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>Data &amp; tooling</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,figma,linux" />
 </td>
 </tr>
 </table>
-
----
-
-## 📄 License
-
-The **code** in this repository is released under the [MIT License](https://opensource.org/licenses/MIT) — feel free to read, fork, and learn from it.
-
-Personal **photos** and **written content** (blog posts, biography) remain © Sharif Ruzaimi Syirazi 2026 and are not licensed for reuse.
-
----
-
+<br />
+  🚀  Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
+🍒  Portfolio & Blog
+A single-page React portfolio with a fully 3D CSS keycap skills board, photo slideshow, experience timeline, modal blog reader and persistent dark mode.
+<sub>`HTML` `CSS` `React 18` `Babel Standalone`</sub>
+</td>
+<td width="50%" valign="top">
+📅  TutorGo
+A tuition-booking platform with role-based access for Admin · Teacher · Student. CodeIgniter 4 with a REST API surface and MySQL backend.
+<sub>`CodeIgniter 4` `PHP` `MySQL` `Bootstrap`</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🧵  AI Fabric Defect Detection
+Real-time defect detector for textiles. YOLO + OpenCV edge-detection pipeline served through a Flask app with Inspector / Manager / Admin roles.
+<sub>`Python` `YOLO` `OpenCV` `Flask` `NumPy`</sub>
+</td>
+<td width="50%" valign="top">
+📊  Retail Sales Intelligence
+A star-schema warehouse in MySQL with a pandas ETL pipeline, plus OLAP roll-up / drill-down / slice-and-dice surfaced in Power BI.
+<sub>`Python` `MySQL` `pandas` `Power BI`</sub>
+</td>
+</tr>
+</table>
+<br />
+  📈  The numbers
 <div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosSain55&show_icons=true&hide_border=true&card_width=460&include_all_commits=true&count_private=true&bg_color=00000000&title_color=fc563c&text_color=4a4a52&icon_color=fc563c" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSain55&layout=compact&hide_border=true&card_width=320&langs_count=8&bg_color=00000000&title_color=fc563c&text_color=4a4a52" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSain55&hide_border=true&background=00000000&stroke=4a4a52&ring=fc563c&fire=fc563c&currStreakLabel=fc563c&sideLabels=172a39&dates=4a4a52&currStreakNum=172a39&sideNums=172a39" />
 
-_Built with HTML, CSS, a bit of React, and a lot of matcha._<br />
-_CSD 34203 — Special Topics in Software Development · CLO3 · 20%_
 
-⭐️ **If you like it, leave a star — it makes my day.**
 
+<img src="https://github-profile-trophy.vercel.app/?username=CarlosSain55&theme=flat&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" />
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSain55&bg_color=00000000&color=172a39&line=fc563c&point=172a39&area=true&hide_border=true" />
+</div>
+<br />
+  🏆  Highlights
+<table>
+<tr>
+<td>🎓</td><td><b>Dean's List</b> — semesters 1, 3, 4, 5 at UniSZA</td>
+</tr>
+<tr>
+<td>🥇</td><td><b>Anugerah Cemerlang</b> — academic excellence award</td>
+</tr>
+<tr>
+<td>💰</td><td><b>Biasiswa Kerajaan Negeri Sabah</b> — Sabah state scholarship</td>
+</tr>
+<tr>
+<td>🎨</td><td><b>Exco Multimedia</b> — Siswa Siswi Pertahanan Awam, UniSZA</td>
+</tr>
+<tr>
+<td>📊</td><td>Engineered an <b>OLAP star schema</b> processing 1,000+ retail transactions</td>
+</tr>
+<tr>
+<td>🧠</td><td>Trained a <b>YOLO defect-detection model</b> running real-time on commodity hardware</td>
+</tr>
+</table>
+<br />
+  ✍️  Currently…
+```diff
++ Building   ·  TutorGo 2.0 (live availability + Stripe payments)
++ Learning   ·  Flutter, Firebase, advanced cybersecurity
++ Reading    ·  Designing Data-Intensive Applications — Martin Kleppmann
++ Listening  ·  lo-fi / jazz piano while debugging
+~ Drinking   ·  matcha latte (oat milk, no syrup)
+```
+<br />
+  📫  Let's connect
+<div align="center">
+I reply within 24 hours on weekdays. Open to internships, freelance, and good conversations about software.
+<br />
+<a href="mailto:shruzaimi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shruzaimi%40gmail.com-fc563c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=172a39" />
+</a>
+<a href="https://www.linkedin.com/in/sharif-ruzaimi-syirazi">
+  <img src="https://img.shields.io/badge/LinkedIn-Sharif%20Ruzaimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=172a39" />
+</a>
+<a href="https://carlossain55.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-fc563c?style=for-the-badge&logo=safari&logoColor=white&labelColor=172a39" />
+</a>
+<a href="tel:+60178117668">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B60%2017--811%207668-1ea35a?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=172a39" />
+</a>
+</div>
+<br />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffb398,50:fc563c,100:172a39&section=footer&text=thanks%20for%20reading%20%E2%9C%A8&fontColor=ffffff&fontSize=18&fontAlignY=72&animation=fadeIn" />
+<sub>⭐  If something here was useful, a star on a repo makes my day.</sub>
 </div>
